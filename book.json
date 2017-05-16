@@ -1,0 +1,14 @@
+{
+    "title": "个人阅读笔记",
+    "author": "Zhang Tong (Vincent)",
+    "language": "zh-hans",
+    "plugins": [
+        "tbfed-pagefooter"
+    ],
+    "pluginsConfig": {
+        "tbfed-pagefooter": {
+            "modify_label": "最后更新于：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        }
+    }
+}
